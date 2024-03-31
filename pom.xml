@@ -15,8 +15,10 @@
     <name>MicroserviceLearn</name>
     <description>MicroserviceLearn</description>
     <modules>
-        <module>Order</module>
+        <module>order</module>
         <module>stock</module>
+        <module>order-nacos</module>
+        <module>stock-nacos</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

@@ -1,0 +1,8 @@
+server:
+  port: 8021
+spring:
+  application:
+    name: stock-nacos
+  cloud:
+    nacos:
+      server-addr: localhost:8848
